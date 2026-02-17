@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# macOS
+.DS_Store
+._*
+
+# Skill packages
+*.skill
